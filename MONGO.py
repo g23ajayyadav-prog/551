@@ -14,7 +14,7 @@ root.title("NGD Assignment-1")
 root.geometry("600x400")
 
 # Title Upar Show Hoga
-tk.Label(root, text="514- Mohammad Adil Shaikh -- CRUD Operation Using GUI", font=("Arial", 16)).pack(anchor="w", padx=20, pady=10)
+tk.Label(root, text="551- Ajay Yadav -- CRUD Operation Using GUI", font=("Arial", 16)).pack(anchor="w", padx=20, pady=10)
 
 # College ID
 tk.Label(root, text="College ID:").pack(anchor="w", padx=20)
@@ -151,3 +151,4 @@ tk.Button(root, text="Delete", command=delete).place(x=320, y=250)
 
 # App Run Yaha Hoga
 root.mainloop()
+
